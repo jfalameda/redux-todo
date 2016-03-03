@@ -10,7 +10,7 @@ $ npm install babel-cli -g
 
 First, compile the assets
 ```
-npm run compile
+$ npm run compile
 ```
 then run the server
 ```
