@@ -16,3 +16,10 @@ then run the server
 ```
 $ babel-node server.js
 ```
+
+# Installation and running with docker
+
+```
+$ docker build -t todo-node .
+$ docker run -p 8080:8080 todo-node
+```
